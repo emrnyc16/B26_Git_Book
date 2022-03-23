@@ -5,3 +5,7 @@ for the book so far
 
 chapter 1 is good
 keep working on chapter 2
+
+more fun
+
+more java
